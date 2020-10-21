@@ -1,2 +1,2 @@
-# jogo-da-cobrinha---Dio
-Recriando o jogo da cobrinha com JS - DIO
+# jogo da cobrinha - Digital Innovation One
+Recriando o jogo da cobrinha com HTML, CSS e JS.
